@@ -1,2 +1,2 @@
 # NeuralPDE
-Solving partial differential equation (PDE) using Neural Networks.
+Neural PDE --> Solving partial differential equation (PDE) using Neural Networks.
